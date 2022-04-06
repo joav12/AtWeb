@@ -6,7 +6,7 @@ export default function Topo(){
 
             <dir className="main-content menu-content">
 
-                <h1><a href="#home">LOGO</a></h1>
+                <h1><a href="#home">ODS</a></h1>
 
                 <nav>
 
